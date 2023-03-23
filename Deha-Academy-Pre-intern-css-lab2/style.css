@@ -1,0 +1,14 @@
+.title1{
+    text-align: center;
+    color: orange;
+    border-style: groove;
+    border-width: 7px;
+    border-color: coral;
+}
+.title2{
+    text-align: right;
+    color:white;
+    border-style: solid;
+    background-color:orange;
+    
+}
